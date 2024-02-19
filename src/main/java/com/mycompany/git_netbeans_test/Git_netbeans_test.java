@@ -13,5 +13,6 @@ public class Git_netbeans_test {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("ESTOY EN BRANCH");
+        System.out.println("MERGE COMPLETADO");
     }
 }
